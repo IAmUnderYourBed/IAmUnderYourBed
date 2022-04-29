@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IAmUnderYourBed or Seven
 - 👀 I’m interested in alot of art based things and coding
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on (no answer yet)
+- 📫 How to reach me (no answer yet)
 
 <!---
 IAmUnderYourBed/IAmUnderYourBed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
